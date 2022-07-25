@@ -1,7 +1,7 @@
 ### !Hello World 👋
 
 
-<img src="https://img.shields.io/badge/-Blog-green"/>
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=appveyor&green"/>
 
-<img src="https://img.shields.io/badge/ReactNative-3DDC84?style=flat-square&logo=RN&logoColor=white-blue"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=appveyor&green"/>
 
