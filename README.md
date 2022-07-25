@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning ...
+https://img.shields.io/badge/-Blog-red
