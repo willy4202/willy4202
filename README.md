@@ -7,6 +7,7 @@
 - 🌍 Based in Seoul, South Korea
 - 🔎 Interested in Node.js | Next.js(SSR, SSG)
 - ✉️ You can contact me at willy4202@naver.com
+- <a href="https://velog.io/@willy4202"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@willy4202"/></a> <a href="https://www.instagram.com/syoung___h/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://velog.io/@willy4202"/></a>
 
 <h3 align="center">⚙️ Skills</p>
 <p align="center">
@@ -16,9 +17,4 @@
 
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=StyledComponents&logoColor=white"/> <img src="https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=SASS&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon&logoColor=white"/>
 
-</p>
-
-<h3 align="center">⚙️ SNS</p>
-<p align="center">
-<a href="https://velog.io/@willy4202"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@willy4202"/></a>
 </p>
