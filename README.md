@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
+https://img.shields.io/static/v1?label=<LABEL>&message=<Blog>&color=<red>
