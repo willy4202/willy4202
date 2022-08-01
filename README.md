@@ -20,7 +20,6 @@
 </p>
 
 <h3>Recently study....</h3>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=white"/> 
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=white"/> 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=willy4202&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
