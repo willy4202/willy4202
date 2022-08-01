@@ -18,7 +18,10 @@
 
 
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=StyledComponents&logoColor=white"/> <img src="https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=SASS&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon&logoColor=white"/>
-
 </p>
+
+<h3>Recently study....</h3>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=willy4202&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
