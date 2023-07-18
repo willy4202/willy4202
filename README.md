@@ -6,10 +6,6 @@
 - 🔎 Interested in Node.js | Next.js(SSR, SSG)
 - ✉️ You can contact me at willy4202@naver.com
 
-### 😃 Nice way to know me!
-
-<a href="https://velog.io/@willy4202"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@willy4202"/></a> <a href="https://www.instagram.com/syoung___h/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://velog.io/@willy4202"/></a> <a href="https://petalite-antelope-781.notion.site/Protfolio-ad3fc274836f43f2b24aff8e983898e6/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white&link=https://velog.io/@willy4202"/></a> <a href="https://petalite-antelope-781.notion.site/2a25bac2fa7140028662b94cfd6d3ee9"><img src="https://img.shields.io/badge/Resume-8CA1AF?style=flat-square&logo=readthedocs&logoColor=white&link=https://velog.io/@willy4202"/></a>
-
 <h3 >⚙️ Skills</p>
 <p >
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
