@@ -3,7 +3,7 @@
 # Hi there! my name is Seokyoung (Young)
 
 - 🌍 Based in Seoul, South Korea
-- 🔎 Interested in Node.js | Next.js(SSR, SSG)
+- 🔎 Interested in Node.js | Next.js
 - ✉️ You can contact me at willy4202@naver.com
 
 <h3 >⚙️ Skills</p>
