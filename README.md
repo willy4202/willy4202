@@ -1,8 +1,15 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwilly4202&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <img src="https://img.shields.io/github/followers/willy4202?style=social">
 
-# Hi there! my name is Seokyoung (Young)
+# 안녕하세요. 프론트엔드 엔지니어 황석영입니다.
 
-- 🌍 Based in Seoul, South Korea
-- 🔎 Interested in Node.js | Next.js
-- ✉️ You can contact me at willy4202@naver.com
+사용자 경험에 대한 이해를 바탕으로 프론트엔드 성능 최적화부터 서버 기반 UI 아키텍처 설계, AI를 활용한 업무
+자동화 시스템 구축까지, 기술의 경계를 넘어 비즈니스 문제를 해결하고자 합니다.
 
+-  FE 주도 AI 실험 플랫폼을 구축 14건의 실험과 4건의 서비스 적용으로 업무 효율을 66% 개선했습니다
+- 대용량 트래픽에 대응해 Vercel의 배포 비용을 87% 절감했습니다
+- 비즈니스 핵심 페이지 빌드 용량을 23배 가량 감축해 초기 로딩을 단축한 경험이 있습니다
+- 사이드 프로젝트로 5,000만원의 매출을 만들었습니다.
+
+
+- Toss Frontend Accelerator 2025.07~
+- Cursor Meetup Seoul 2025.06. 14
+- 우아한형제들, 이펙티브 AI 2025.04
